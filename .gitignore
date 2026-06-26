@@ -7,7 +7,3 @@ node_modules/
 dist/
 react/dist/
 *.tsbuildinfo
-
-# Pencil working file — the prototype lives in the Pencil app (the on-disk
-# file is a stale placeholder until saved); not a build input.
-*.pen
